@@ -12,7 +12,7 @@ InquisiBot leverages the power of natural language processing (NLP) and the Goog
 
 - **Wide Range of Topics**: InquisiBot is trained to answer questions spanning various domains, including science, technology, general knowledge, and more.
 
-- **Colab Implementation**: The project is implemented as a [Google Colab]([https://colab.research.google.com/](/drive/1AT5jRBv4lD-NDP3baROhQX8q-nrm4NbD#scrollTo=vIk_OaRmluj8))) notebook, making it easy to run and experiment with in a cloud-based environment.
+- **Colab Implementation**: The project is implemented as a Google Colab notebook, making it easy to run and experiment with in a cloud-based environment.
 
 ## Getting Started
 
@@ -28,6 +28,3 @@ InquisiBot leverages the power of natural language processing (NLP) and the Goog
 
 If you're interested in contributing to InquisiBot, feel free to submit pull requests, report issues, or suggest improvements. Your contributions are highly appreciated!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
