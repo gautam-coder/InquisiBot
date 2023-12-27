@@ -12,13 +12,13 @@ InquisiBot leverages the power of natural language processing (NLP) and the Goog
 
 - **Wide Range of Topics**: InquisiBot is trained to answer questions spanning various domains, including science, technology, general knowledge, and more.
 
-- **Colab Implementation**: The project is implemented as a [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1AT5jRBv4lD-NDP3baROhQX8q-nrm4NbD#scrollTo=vIk_OaRmluj8))) notebook, making it easy to run and experiment with in a cloud-based environment.
+- **Colab Implementation**: The project is implemented as a [Google Colab]([https://colab.research.google.com/](/drive/1AT5jRBv4lD-NDP3baROhQX8q-nrm4NbD#scrollTo=vIk_OaRmluj8))) notebook, making it easy to run and experiment with in a cloud-based environment.
 
 ## Getting Started
 
-1. **Open Colab Notebook**: Click on the Colab badge below to open the notebook in Google Colab.
+1. **Open Colab Notebook**: Click on the InquisiBot.ipynb to open the notebook in Google Colab.
 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([ https://colab.research.google.com/drive/1AT5jRBv4lD-NDP3baROhQX8q-nrm4NbD#scrollTo=vIk_OaRmluj8])
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 
 2. **Run the Notebook**: Once the Colab notebook is open, run the cells sequentially to execute the code and interact with InquisiBot.
 
