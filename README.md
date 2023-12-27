@@ -18,7 +18,7 @@ InquisiBot leverages the power of natural language processing (NLP) and the Goog
 
 1. **Open Colab Notebook**: Click on the Colab badge below to open the notebook in Google Colab.
 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([link-to-your-colab-notebook](https://colab.research.google.com/drive/1AT5jRBv4lD-NDP3baROhQX8q-nrm4NbD#scrollTo=vIk_OaRmluj8))
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1AT5jRBv4lD-NDP3baROhQX8q-nrm4NbD#scrollTo=vIk_OaRmluj8)])
 
 2. **Run the Notebook**: Once the Colab notebook is open, run the cells sequentially to execute the code and interact with InquisiBot.
 
